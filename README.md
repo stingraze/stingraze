@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 --!>
   
-  - 🔭 I’m currently working on experimentary web crawlers, recent ones using GPUs.<br/>
+  - 🔭 I’m currently working on experimentary web crawlers, recent ones using GPUs and quantum algorithms.<br/>
 
   - 🌱 I’m currently learning Python & PHP.<br/>
 
