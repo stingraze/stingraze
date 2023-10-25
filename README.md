@@ -19,4 +19,6 @@ Here are some ideas to get you started:
   - 📫 How to reach me: @_stingraze on Twitter, tsubasa@inspiresearch.io for Business Related things.<br/>
 
   - ⚡ Fun fact: I speak English and Japanese.<br/>
+  
+  - ⚡ You can Support me via PayPal.me at: https://paypal.me/stingraze<br/>
 
