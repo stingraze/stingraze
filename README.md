@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
   - ⚡ Fun fact: I speak English and Japanese.<br/>
   
-  - ⚡ You can Support me via PayPal.me at: https://paypal.me/stingraze<br/>
+  - ⚡ You can Support me via PayPal.Me at: https://paypal.me/stingraze<br/>
 
