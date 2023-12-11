@@ -22,3 +22,5 @@ Here are some ideas to get you started:
   
   - ⚡ You can Support me via PayPal.Me at: https://paypal.me/stingraze<br/>
 
+  - ⚡ Our Company, Inspire Search's Patreon Page: https://www.patreon.com/inspiresearch
+
