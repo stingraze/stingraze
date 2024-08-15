@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
   - ⚡ Fun fact: I speak English and Japanese.<br/>
 
-  - 📽️ Latest LLM Crawler Demo using NVIDIA NIM - Llama 3.1 405b: https://youtu.be/L14FAldvqIk
+  - 📽️ Latest LLM Crawler Demo using NVIDIA NIM - Llama 3.1 405b: https://youtu.be/L14FAldvqIk<br/>
   
   - ⚡ You can Support me via PayPal.Me at: https://paypal.me/stingraze<br/>
 
