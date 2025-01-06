@@ -26,9 +26,9 @@ Here are some ideas to get you started:
   
   - ⚡ You can Support me via PayPal.Me at: https://paypal.me/stingraze<br/>
 
-  - ⚡ Our Company, Inspire Search's Patreon Page: https://www.patreon.com/inspiresearch
+  - ⚡ Our Company, Inspire Search's Patreon Page: https://www.patreon.com/inspiresearch<br/>
 
-  - Please support my works through Crypto. (Any contribution is highly apprciated)
+  - Please support my works through Crypto. (Any contribution is highly appreciated)<br/>
   
-    ETH: 0x2dCe25518C7B2db6620739a6EFf0508Df271BE49
+    ETH: 0x2dCe25518C7B2db6620739a6EFf0508Df271BE49<br/>
 
