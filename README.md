@@ -8,9 +8,9 @@ Here are some ideas to get you started:
   
   - 🔭 I’m currently working on experimentary web crawlers, recent ones using GPUs, LLMs and quantum algorithms.<br/>
 
-  - 🌱 I’m currently learning Python & PHP.<br/>
+  - 🌱 I’m use Python these days, and wanting to learn Rust.<br/>
 
-  - 👯 I’m looking to collaborate on fast information retrieval algorithm brainstorming.<br/>
+  - 👯 I’m looking to collaborate on search algorithm, database, and LLM & AI.<br/>
 
   - 🤔 I’m looking for help with building up Inspire Search Corporation, my startup to become a successful startup.<br/>
 
