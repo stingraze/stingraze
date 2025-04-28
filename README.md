@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   - 📽️ Latest LLM Crawler Demo using NVIDIA NIM - Llama 3.1 405b: https://youtu.be/L14FAldvqIk<br/>
 
-  - 📽️ Gemma 3 27b on GH200 using Ollama : https://youtu.be/OrMt9EEguI4<br />
+  - 📽️ Gemma 3 27b on GH200 using Ollama : https://youtu.be/l7vimcow1MQ<br />
   
   - ⚡ You can Support me via PayPal.Me at: https://paypal.me/stingraze<br/>
 
