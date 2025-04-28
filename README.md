@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
   - 📽️ Latest LLM Crawler Demo using NVIDIA NIM - Llama 3.1 405b: https://youtu.be/L14FAldvqIk<br/>
 
-  - 📽️ Test video of Llama 3.2 1B on Macbook Pro - M1 Pro with 16GB of memory using WebGPU and transformers.js: https://youtu.be/OrMt9EEguI4<br />
+  - 📽️ Gemma 3 27b on GH200 using Ollama : https://youtu.be/OrMt9EEguI4<br />
   
   - ⚡ You can Support me via PayPal.Me at: https://paypal.me/stingraze<br/>
 
