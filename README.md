@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
   - 👯 I’m looking to collaborate on search algorithm, database, and LLM & AI.<br/>
 
-  - 🤔 I’m looking for help with building up Inspire Search Corporation, my startup to become a successful startup.<br/>
+  - 🤔 My ambition is to make Inspire Search Corporation & Curioforce Corporation, my startups to become successful.<br/>
 
   - 💬 Ask me about Perl, PHP and Python.<br/>
 
