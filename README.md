@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
   - 📽️ Gemma 3 27b on GH200 using Ollama : https://youtu.be/l7vimcow1MQ<br />
   
-  - ⚡ You can Support me via PayPal.Me at: https://paypal.me/stingraze<br/>
+  - ⚡ You can Support me via PayPal.Me at or Buy Me a Coffee: https://paypal.me/stingraze https://buymeacoffee.com/stingraze<br/>
 
   - ⚡ Our Company, Inspire Search's Patreon Page: https://www.patreon.com/inspiresearch<br/>
 
