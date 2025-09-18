@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 
   - 📽️ Gemma 3 27b on GH200 using Ollama : https://youtu.be/l7vimcow1MQ<br />
 
+  - 📽️ GPT-OSS 120b on B200 using Ollama: https://youtu.be/zWek-gcMxzU<br />
+
   - 📽️ Curioprompt (Prompt Library / Database) MCP for Claude Desktop: https://www.youtube.com/watch?v=oFOzdM16hVE <br />
   
   - ⚡ You can Support me via PayPal.Me at or Buy Me a Coffee: https://paypal.me/stingraze https://buymeacoffee.com/stingraze<br/>
