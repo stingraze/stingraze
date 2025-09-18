@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
   - 📽️ Curioprompt (Prompt Library / Database) MCP for Claude Desktop: https://www.youtube.com/watch?v=oFOzdM16hVE <br />
   
-  - ⚡ You can Support me via PayPal.Me at or Buy Me a Coffee: https://paypal.me/stingraze https://buymeacoffee.com/stingraze<br/>
+  - ⚡ You can Support me via PayPal.Me at or Buy Me a Coffee: https://paypal.me/stingraze <br />https://buymeacoffee.com/stingraze<br/>
 
   - ⚡ Our Company, Inspire Search's Patreon Page: https://www.patreon.com/inspiresearch<br/>
 
