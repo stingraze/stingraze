@@ -35,6 +35,8 @@ Here are some ideas to get you started:
   - ⚡ Our Company, Inspire Search's Patreon Page: https://www.patreon.com/inspiresearch<br/>
 
   - Please support my works through Crypto. (Any contribution is highly appreciated)<br/>
-  
+    BTC: bc1q03quvpunnzq0furlvy4fvew7ernwmtufqqv7ya<br/>
     ETH: 0x2dCe25518C7B2db6620739a6EFf0508Df271BE49<br/>
+    Polygon: 0x2b718fea30d3920cd24eb59b8a377e62084f605d<br/>
+    
 
