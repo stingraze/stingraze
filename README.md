@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
   - 📽️ Curioprompt (Prompt Library / Database) MCP for Claude Desktop: https://www.youtube.com/watch?v=oFOzdM16hVE <br />
 
-  - 🌏 Curio AI Brain - Organize Prompts and Improve them Locally. https://chromewebstore.google.com/detail/curio-ai-brain/odbinfbfcphiecclmmilefgacapkbgac <br />
+  - 🌏 Curio AI Brain - Organize Prompts and Improve them Locally. https://www.curioaibrain.com <br />
   
   - ⚡ You can Support me via PayPal.Me at or Buy Me a Coffee: 
   
