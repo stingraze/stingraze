@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   - 📽️ GPT-OSS 120b on B200 using Ollama: https://youtu.be/zWek-gcMxzU<br />
 
   - 📽️ Curioprompt (Prompt Library / Database) MCP for Claude Desktop: https://www.youtube.com/watch?v=oFOzdM16hVE <br />
+
+  - 🌏 Curio AI Brain - Organize Prompts and Improve them Locally. https://chromewebstore.google.com/detail/curio-ai-brain/odbinfbfcphiecclmmilefgacapkbgac <br />
   
   - ⚡ You can Support me via PayPal.Me at or Buy Me a Coffee: 
   
