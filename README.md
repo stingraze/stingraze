@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 --!>
   
-  - 🔭 I’m currently working on experimentary web crawlers, recent ones using GPUs, LLMs and quantum algorithms.<br/>
+  - 🔭 I’m currently working on experimental web crawlers, recent ones using GPUs, LLMs and quantum algorithms.<br/>
 
   - 🌱 I use Python mostly these days, but started Mojo recently.<br/>
 
